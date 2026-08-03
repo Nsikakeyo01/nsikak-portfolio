@@ -4,20 +4,23 @@
 <head>
 
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Nsikak Christopher Eyo | Portfolio</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+    <script defer src="js/script.js"></script>
 
 </head>
 
@@ -25,73 +28,373 @@
 
     <header>
 
-        <nav class="navbar">
+        <div class="container">
 
             <div class="logo">
 
-                Nsikak Eyo
+                <h2>Nsikak Eyo</h2>
 
             </div>
 
-            <ul class="nav-links">
+            <nav>
 
-                <li><a href="#home">Home</a></li>
+                <ul class="nav-links">
 
-                <li><a href="#about">About</a></li>
+                    <li><a href="#home">Home</a></li>
 
-                <li><a href="#skills">Skills</a></li>
+                    <li><a href="#about">About</a></li>
 
-                <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
 
-                <li><a href="#resume">Resume</a></li>
+                    <li><a href="#projects">Projects</a></li>
 
-                <li><a href="#contact">Contact</a></li>
+                    <li><a href="#resume">Resume</a></li>
 
-            </ul>
+                    <li><a href="#contact">Contact</a></li>
 
-        </nav>
+                </ul>
 
-    </header>
+                <div class="menu-btn">
 
-    <section class="hero" id="home">
+                    ☰
 
-        <div class="hero-text">
+                </div>
 
-            <h3>Hello, I'm</h3>
-
-            <h1>Nsikak Christopher Eyo</h1>
-
-            <h2>
-                Electrical Engineer |
-                Software Development Student
-            </h2>
-
-            <p>
-
-                I build responsive websites, solve real-world problems, and help businesses grow through technology,
-                administrative support, and excellent customer service.
-
-            </p>
-
-            <div class="buttons">
-
-                <a href="#projects" class="btn">View Projects</a>
-
-                <a href="#contact" class="btn2">Hire Me</a>
-
-            </div>
+            </nav>
 
         </div>
 
-        <div class="hero-image">
+    </header>
 
-            <img src="images/profile.png" alt="Nsikak Christopher Eyo">
+
+
+    <section id="home" class="hero">
+
+        <div class="container hero-content">
+
+            <div class="hero-text">
+
+                <h3>Hello, I'm</h3>
+
+                <h1>Nsikak Christopher Eyo</h1>
+
+                <h2>
+
+                    Electrical Engineer
+
+                    <span>|</span>
+
+                    Software Development Student
+
+                </h2>
+
+                <p>
+
+                    I build modern websites and software solutions while helping businesses through administrative
+                    support, customer service, and technical problem solving.
+
+                </p>
+
+                <div class="buttons">
+
+                    <a href="#projects" class="btn">View Projects</a>
+
+                    <a href="#contact" class="btn outline">Hire Me</a>
+
+                </div>
+
+            </div>
+
+            <div class="hero-image">
+
+                <img src="images/profile.png" alt="Nsikak Christopher Eyo">
+
+            </div>
 
         </div>
 
     </section>
 
-    <script src="script.js"></script>
+
+
+    <section id="about">
+
+        <div class="container">
+
+            <h2 class="section-title">
+
+                About Me
+
+            </h2>
+
+            <p>
+
+                I am an Electrical Engineer and Software Development student with experience in teaching, administrative
+                support, customer service, genealogy research and software development.
+
+                I enjoy solving problems, building websites and learning new technologies.
+
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <section id="skills">
+
+        <div class="container">
+
+            <h2 class="section-title">
+
+                Skills
+
+            </h2>
+
+            <div class="skills-grid">
+
+                <div class="card">
+
+                    <h3>Programming</h3>
+
+                    <p>
+
+                        HTML5
+
+                        <br>
+
+                        CSS3
+
+                        <br>
+
+                        JavaScript
+
+                    </p>
+
+                </div>
+
+                <div class="card">
+
+                    <h3>Tools</h3>
+
+                    <p>
+
+                        Git
+
+                        <br>
+
+                        GitHub
+
+                        <br>
+
+                        Docker
+
+                        <br>
+
+                        VS Code
+
+                    </p>
+
+                </div>
+
+                <div class="card">
+
+                    <h3>Professional</h3>
+
+                    <p>
+
+                        Administrative Support
+
+                        <br>
+
+                        Virtual Assistant
+
+                        <br>
+
+                        Customer Service
+
+                        <br>
+
+                        Technical Support
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <section id="projects">
+
+        <div class="container">
+
+            <h2 class="section-title">
+
+                Projects
+
+            </h2>
+
+            <div class="project-grid">
+
+                <div class="project-card">
+
+                    <h3>Nsikak Quiz App</h3>
+
+                    <p>
+
+                        JavaScript Quiz Application built with DOM manipulation, recursion and SweetAlert2.
+
+                    </p>
+
+                </div>
+
+                <div class="project-card">
+
+                    <h3>JavaScript Task Manager</h3>
+
+                    <p>
+
+                        Task Management Application built using modern JavaScript.
+
+                    </p>
+
+                </div>
+
+                <div class="project-card">
+
+                    <h3>Creative Hustle Hub</h3>
+
+                    <p>
+
+                        Business collaboration platform.
+
+                    </p>
+
+                </div>
+
+                <div class="project-card">
+
+                    <h3>SleepOutside</h3>
+
+                    <p>
+
+                        E-commerce application developed as part of BYU Pathway.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <section id="resume">
+
+        <div class="container">
+
+            <h2 class="section-title">
+
+                Resume
+
+            </h2>
+
+            <p>
+
+                Download my latest CV.
+
+            </p>
+
+            <a href="files/Nsikak_Christopher_Eyo_CV.pdf" class="btn" target="_blank">
+
+                Download CV
+
+            </a>
+
+        </div>
+
+    </section>
+
+
+
+    <section id="contact">
+
+        <div class="container">
+
+            <h2 class="section-title">
+
+                Contact Me
+
+            </h2>
+
+            <p>
+
+                📍 Akwa Ibom State, Nigeria
+
+            </p>
+
+            <p>
+
+                📧 mrnsikakeyo@gmail.com
+
+            </p>
+
+            <p>
+
+                📞 +234 808 911 6838
+
+            </p>
+
+            <p>
+
+                💼
+
+                <a href="https://linkedin.com/in/nsikakchristophereyo" target="_blank">
+
+                    LinkedIn
+
+                </a>
+
+            </p>
+
+            <p>
+
+                💻
+
+                <a href="https://github.com/Nsikakeyo01" target="_blank">
+
+                    GitHub
+
+                </a>
+
+            </p>
+
+        </div>
+
+    </section>
+
+
+
+    <footer>
+
+        <p>
+
+            © 2026 Nsikak Christopher Eyo.
+
+            All Rights Reserved.
+
+        </p>
+
+    </footer>
 
 </body>
 
