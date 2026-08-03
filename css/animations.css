@@ -1,0 +1,98 @@
+/* =========================
+   FLOATING ANIMATION
+========================= */
+
+
+@keyframes floating {
+
+    0%{
+        transform:translateY(0px);
+    }
+
+
+    50%{
+        transform:translateY(-20px);
+    }
+
+
+    100%{
+        transform:translateY(0px);
+    }
+
+}
+
+
+
+.hero-image img{
+
+    animation:floating 5s ease-in-out infinite;
+
+}
+
+
+
+/* =========================
+   GLOW ANIMATION
+========================= */
+
+
+@keyframes pulseGlow{
+
+    0%{
+
+        opacity:.3;
+
+        transform:scale(1);
+
+    }
+
+
+    50%{
+
+        opacity:.7;
+
+        transform:scale(1.1);
+
+    }
+
+
+    100%{
+
+        opacity:.3;
+
+        transform:scale(1);
+
+    }
+
+}
+
+
+
+.glow{
+
+    animation:pulseGlow 5s infinite;
+
+}
+
+
+
+/* =========================
+   BUTTON HOVER
+========================= */
+
+
+.btn{
+
+    transition:.3s ease;
+
+}
+
+
+
+.btn:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 15px 30px rgba(0,0,0,.3);
+
+}
