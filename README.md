@@ -1,30 +1,22 @@
-# nsikak-portfolio
-My professional software developer portfolio showcasing my skills, projects and experience.
-# 👋 Hi, I'm Nsikak Christopher Eyo
+<!-- ==========================================
+NCE GITHUB PROFILE README
+========================================== -->
+
+<h1 align="center">
+
+Hi 👋, I'm Nsikak Christopher Eyo
+
+</h1>
+
+<h3 align="center">
+
+Software Developer | Technical Support Specialist | Customer Support Professional | Electrical Engineer
+
+</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Electrical+Engineer;Software+Development+Student;Frontend+Developer;Administrative+Support;Customer+Service;Open+to+Remote+Opportunities" />
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Web+Developer;Technical+Support+Specialist;Customer+Support+Professional;Always+Learning+New+Technologies" />
 
 </p>
 
@@ -32,110 +24,80 @@ My professional software developer portfolio showcasing my skills, projects and 
 
 # 👨‍💻 About Me
 
-I am an **Electrical Engineer** and a **Software Development student** at **BYU–Pathway Worldwide** with a passion for technology, software engineering, and solving real-world problems.
+I'm a passionate Software Developer dedicated to creating responsive, accessible and modern web applications.
 
-I enjoy building responsive websites, learning modern web technologies, and supporting organizations through software development, administrative support, customer service, and technical problem-solving.
+I enjoy solving problems with technology and continuously improving my skills while building projects that deliver real value.
 
-I'm actively seeking **remote opportunities** where I can continue learning, contribute to meaningful projects, and grow professionally.
+Currently I'm focused on:
 
----
-
-# 🚀 Current Focus
-
-- 🌱 Learning Modern JavaScript
-- 💻 Building Frontend Projects
-- 📚 Software Engineering
-- 🗄 Database Design (MySQL)
-- 🤝 Open to Collaboration
-- 🌍 Looking for Remote Opportunities
+- 🌍 Building modern web applications
+- 💻 Frontend Development
+- ⚡ JavaScript
+- 🎯 Technical Support
+- 🤝 Customer Support
+- 🚀 Learning Full-Stack Development
 
 ---
 
-# 🛠 Technical Skills
+# 🌐 Portfolio
 
-### Frontend
+### Website
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Visual Studio Code
-
-### Productivity
-
-- Microsoft Office
-- Google Workspace
-
-### Professional Skills
-
-- Administrative Support
-- Customer Support
-- Technical Support
-- Virtual Assistance
-- Documentation
-- Communication
-- Team Collaboration
-- Problem Solving
+https://nsikakeyo01.github.io/nsikak-portfolio/
 
 ---
 
-# 🚀 Featured Projects
+# 📫 Contact
 
-## 📚 Nsikak Quiz App
+📧 Email
 
-Interactive JavaScript quiz application featuring:
+mrnsikakeyo@gmail.com
 
-- DOM Manipulation
-- ES6 Array Methods
-- Recursion
-- SweetAlert2
-- Score Tracking
-- Restart Quiz
+💼 LinkedIn
 
----
+https://www.linkedin.com/in/nsikakchristophereyo
 
-## ✅ JavaScript Task Manager
+🐙 GitHub
 
-Task management application built with JavaScript.
+https://github.com/Nsikakeyo01
 
-Features include:
+📱 WhatsApp
 
-- Create Tasks
-- Edit Tasks
-- Delete Tasks
-- Organize Daily Activities
+## https://wa.me/2348089116838
 
----
+# 🚀 Tech Stack
 
-## 🏢 Chamber of Commerce Website
+### 💻 Programming Languages
 
-Responsive business directory website built using HTML, CSS, and JavaScript.
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-## 🛒 SleepOutside Project
+</p>
 
-E-commerce web application developed during BYU–Pathway Software Development training.
+### ⚙️ Frameworks & Libraries
 
----
+<p>
 
-# 🌐 Portfolio Website
+<img src="https://skillicons.dev/icons?i=nodejs,npm" />
 
-🚧 Currently under development.
+</p>
 
-Coming soon with:
+### 🛠 Development Tools
 
-- Modern UI
-- Responsive Design
-- Dark Mode
-- Contact Form
-- Resume Download
-- Project Showcase
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,mysql" />
+
+</p>
+
+### 🎨 Design
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+</p>
 
 ---
 
@@ -143,9 +105,11 @@ Coming soon with:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nsikakeyo01&show_icons=true&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Nsikakeyo01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsikakeyo01&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nsikakeyo01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -155,7 +119,7 @@ Coming soon with:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nsikakeyo01&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Nsikakeyo01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -165,98 +129,76 @@ Coming soon with:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nsikakeyo01&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nsikakeyo01&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsikakeyo01&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsikakeyo01&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🌍 Connect With Me
-
-📍 Akwa Ibom State, Nigeria
-
-📧 **mrnsikakeyo@gmail.com**
-
-📞 **+234 808 911 6838**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/nsikakchristophereyo
-
-💻 GitHub
-
-https://github.com/Nsikakeyo01
-
----
-
-# 🎯 Career Interests
-
-- Software Development
-- Frontend Development
-- Administrative Support
-- Virtual Assistance
-- Customer Support
-- Technical Support
-- Remote Work
-
----
-
-# 🎓 Education
-
-**Bachelor of Science (In Progress)**
-
-Software Development
-
-BYU–Pathway Worldwide
-
-**Bachelor of Engineering**
-
-Electrical Engineering
-
-Akwa Ibom State University
 
 ---
 
 # 📚 Currently Learning
 
-- JavaScript
-- Software Engineering
-- Database Design
-- Git & GitHub
-- Responsive Web Design
+- Full-Stack Software Development
+- Advanced JavaScript (ES6+)
+- Node.js
+- API Development
+- SQL & Database Design
+- UI/UX Best Practices
+- AI-assisted Software Development
 
 ---
 
-# 🎯 2026 Goals
+# 💼 Services
 
-- Build a strong software development portfolio
-- Secure a remote job
-- Contribute to open-source projects
-- Improve frontend development skills
-- Continue learning and growing professionally
+✅ Frontend Web Development
+
+✅ Technical Support
+
+✅ Customer Support
+
+✅ Administrative Support
+
+✅ Website Maintenance
+
+✅ Responsive Website Design
+
+✅ Bug Fixing
+
+✅ GitHub & Version Control
 
 ---
 
-# 💡 Personal Motto
+# 🤝 Let's Connect
 
-> **"Continuous learning, consistency, and excellence create limitless opportunities."**
+If you're looking for someone to build a modern website, contribute to a project, or join your team, I'd be happy to connect.
+
+📧 **Email:** **mrnsikakeyo@gmail.com**
+
+🌐 **Portfolio:** **https://nsikakeyo01.github.io/nsikak-portfolio/**
+
+💼 **LinkedIn:** **https://www.linkedin.com/in/nsikakchristophereyo**
+
+🐙 **GitHub:** **https://github.com/Nsikakeyo01**
 
 ---
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ If you like my projects, consider giving them a star!
 
-If you like my work, consider giving my repositories a ⭐.
+</p>
+
+<p align="center">
+
+© 2026 Nsikak Christopher Eyo
 
 </p>
